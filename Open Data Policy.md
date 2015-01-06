@@ -1,34 +1,34 @@
-# City of Chattanooga Open Data Policy
+# City of Bangor Open Data Policy
 
-**EXECUTIVE ORDER OF THE MAYOR**
-**No. 2014-04**
-
-
-**City of Chattanooga Open Data Policy**
+**ORDER**
+**No. YYYY-MM**
 
 
-**WHEREAS**, the City of Chattanooga (the "City") is committed to improving the community by fostering open, transparent, valuable, effective, accountable, and accessible government functions; and,
+**City of Bangor Open Data Policy**
 
-**WHEREAS**, by removing barriers to data, the City of Chattanooga seeks to develop opportunities for civic engagement, economic development, commerce, and increased investment; and,
 
-**WHEREAS**, the City of Chattanooga commits to working to enable data captured and used by the City to be more easily accessible by people and advanced technologies and applications ("Machines"), while at the same time protecting the privacy rights and personal safety of others; and,
+**WHEREAS**, the City of Bangor (the "City") is committed to improving the community by fostering open, transparent, valuable, effective, accountable, and accessible government functions; and,
+
+**WHEREAS**, by removing barriers to data, the City of Bangor seeks to develop opportunities for civic engagement, economic development, commerce, and increased investment; and,
+
+**WHEREAS**, the City of Bangor commits to working to enable data captured and used by the City to be more easily accessible by people and advanced technologies and applications ("Machines"), while at the same time protecting the privacy rights and personal safety of others; and,
 
 **WHEREAS**, the adoption of open standards improves transparency of government functions, access to public information, and improved coordination and efficiencies among organizations across the public, non-profit, and private sectors; and,
 
-**WHEREAS**, the City of Chattanooga commits to strive for a future in which important government data and information will be open data by default.
+**WHEREAS**, the City of Bangor commits to strive for a future in which important government data and information will be open data by default.
 
-NOW, THEREFORE, I, Andy Berke, Mayor of the City of Chattanooga, Tennessee, by virtue of the executive and administrative authority vested in me by the Charter of the City of Chattanooga and the statutes and laws of the state of Tennessee, do hereby direct and order as follows:
+NOW, THEREFORE, I, [YOUR NAME], City Council Chair of the City of Bangor, Maine, by virtue of the executive and administrative authority vested in me by the Charter of the City of Bangor and the statutes and laws of the state of Maine, do hereby direct and order as follows:
 
-**1. City of Chattanooga data portal**
+**1. City of Bangor data portal**
 
 **a.** A single web portal shall be (i) established and maintained by or on behalf of the City; and (ii) located at data.chattanooga.gov or its successor website.
 
-**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
+**b.** Any data set made accessible on the City of Bangor data portal shall use a machine readable format whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
 
 
 **2. Data set availability**
 
-**a.** Each City agency or department ("Agency") shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Tennessee Open Records Act.
+**a.** Each City agency or department ("Agency") shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Maine Freedom of Access Act.
 
 **b.** Agencies shall treat newly created datasets as open by default and publish said datasets to the City's open data portal, except data that the Office of the City Attorney determines to be confidential, privileged or otherwise protected by law.
 
@@ -64,4 +64,4 @@ NOW, THEREFORE, I, Andy Berke, Mayor of the City of Chattanooga, Tennessee, by v
 
 **a.** The Department of Information Technology will help with the acquaisition of a license that conforms to the principles set forth in the [Open Knowledge Definition](http://opendefinition.org/od/), under which to publish the data and make the license clearly known on the City's data portal.
 
-**IN WITNESS WHEREOF,** I have executed this Executive Order No. 2014-04 this the 31st day of May, 2014.
+**IN WITNESS WHEREOF,** I have executed this Executive Order No. YYYY-MM this the DD day of Month, YYYY.
