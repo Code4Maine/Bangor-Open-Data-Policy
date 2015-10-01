@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Code4Maine/Bangor-Open-Data-Policy.png?label=ready&title=Ready)](https://waffle.io/Code4Maine/Bangor-Open-Data-Policy)
 City of Bangor's Open Data Policy
 ========================================================
 
